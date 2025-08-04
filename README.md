@@ -1,5 +1,9 @@
 # aliaidar-abilmansur-codeforces
 ## 👋 Hi, I'm Aliaidar Abilmansur
-- 🎯 Моя цель — стать красным на Codeforces
-- 🧠 Изучаю алгоритмы, дискретку, и прокачиваюсь в C++
-- 💻 Сейчас прохожу челлендж: **"Решаю все задачи с рейтингом 1200"**
+- 🎯 My goal is to become red on Codeforces
+- 🧠 I study algorithms, discrete, and improve in C++
+- 💻 Now I am going through the challenge: **"I solve all problems with a rating of 1200"**
+
+### 🔥 Progress:
+- 📊 I keep track here: [Google Sheets]
+- 🧾 My analyses and codes: [See repository →]
